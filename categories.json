@@ -1,0 +1,10 @@
+{
+  "Documents":[".pdf", ".txt", ".pptx", ".ppt", ".docx", ".doc", ".xlsx", ".xls", ".csv", ".pub"],
+  "Audio": [".mp3", ".wav", ".wma", ".amr", ".ogg", ".m4a"],
+  "Pictures": [".jpg", ".png", ".gif", ".jpeg"],
+  "Videos": [".mp4", ".3gp", ".mkv", ".3gpp", ".avi", ".mov", ".flv", ".tar"],
+  "Applications": [".exe"],
+  "Compressed": [".zip", ".rar", ".7z"],
+  "Web": [".html", ".css", ".js", ".xml"],
+  "Python Files": [".py"]
+}
